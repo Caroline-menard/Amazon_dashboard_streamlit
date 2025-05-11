@@ -1,0 +1,19 @@
+# Fichiers système (macOS)
+.DS_Store
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks et artefacts Jupyter
+.ipynb_checkpoints/
+
+# Modèles, objets lourds et temporaires
+*.pkl
+*.joblib
+*.tmp
+
+# Données sensibles (à adapter selon ton besoin)
+# data/reviews_sample.parquet
